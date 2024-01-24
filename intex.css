@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 10px;
+}
+
+.item{
+    padding: 2px;
+    border: aqua;
+}
+
+.items{
+    color: black;
+}
